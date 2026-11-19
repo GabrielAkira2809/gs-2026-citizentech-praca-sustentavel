@@ -14,7 +14,7 @@ Uma praça comunitária precisa de iluminação noturna segura e eficiente. O co
 A solução busca reduzir desperdício, apoiar decisões transparentes e avaliar a viabilidade de energia renovável. Relaciona-se aos **ODS 7, 11 e 13**.
 
 ## 2. Como abrir o dashboard
-Abra `[dashboard.html](https://gabrielakira2809.github.io/gs-2026-citizentech-praca-sustentavel/)` no navegador. Não precisa instalar bibliotecas nem acessar a internet. É possível alterar horas diárias, tarifa e fator de emissões; os gráficos e indicadores se atualizam automaticamente.
+Abra `https://gabrielakira2809.github.io/gs-2026-citizentech-praca-sustentavel/` no navegador. Não precisa instalar bibliotecas nem acessar a internet. É possível alterar horas diárias, tarifa e fator de emissões; os gráficos e indicadores se atualizam automaticamente.
 
 Para conferir os cálculos no terminal, execute `python calculos.py` (Python 3). O diagrama está em `diagrama.svg` e os dados em `dados_cenarios.csv` e `premissas.json`.
 
