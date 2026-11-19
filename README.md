@@ -1,1 +1,0 @@
-# gs-2026-citizentech-praca-sustentavel
