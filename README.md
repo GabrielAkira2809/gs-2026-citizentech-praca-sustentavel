@@ -66,6 +66,3 @@ Referências de método e consulta:
 - INMET — dados meteorológicos: https://portal.inmet.gov.br/
 - MCTI — fatores de emissão de eletricidade: https://www.gov.br/mcti/pt-br
 - Nações Unidas — Objetivos de Desenvolvimento Sustentável: https://brasil.un.org/pt-br/sdgs
-
-## 8. Entregas e vídeo
-O repositório GitHub deve conter todos os arquivos desta pasta. O vídeo técnico **não listado no YouTube, com até 3 minutos**, deve mostrar o problema, as alternativas, o diagrama, o dashboard e as limitações. Use `roteiro_video.md` como guia. No Portal da FIAP, envie **somente o arquivo `ENTREGA_PORTAL.txt`**, preenchendo os dois links reais e verificando se ambos estão acessíveis.
