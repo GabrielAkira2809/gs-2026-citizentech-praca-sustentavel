@@ -1,0 +1,4 @@
+cenario,potencia_w,unidades,horas_dia,consumo_carga_kwh_mes,energia_rede_kwh_mes,custo_implantacao_rs,custo_operacao_rs_mes,participacao_renovavel_pct
+Convencional,150,10,12,540.0,540.0,0,486.0,0
+LED conectado à rede,50,10,12,180.0,180.0,6000,162.0,0
+LED solar autônomo,50,10,12,180.0,0,45000,100,100

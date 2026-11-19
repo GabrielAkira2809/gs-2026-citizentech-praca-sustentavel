@@ -1,4 +1,4 @@
-
+"""Cálculos didáticos para a GS SERS / CitizenTech. Sem dependências externas."""
 import csv, json
 from pathlib import Path
 BASE = Path(__file__).resolve().parent

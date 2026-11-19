@@ -1,0 +1,11 @@
+Execução de python calculos.py
+
+base_kwh_mes: 540.00
+led_kwh_mes: 180.00
+economia_kwh_mes: 360.00
+economia_pct: 66.67
+economia_led_rs_mes: 324.00
+solar_kwp_minimo_teorico: 1.78
+bateria_kwh_nominal_teorica: 15.00
+emissoes_evitas_led_kgco2e_ano: 216.00
+emissoes_evitas_solar_kgco2e_ano: 324.00

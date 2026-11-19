@@ -1,0 +1,16 @@
+{
+  "unidades": 10,
+  "potencia_atual_w": 150,
+  "potencia_led_w": 50,
+  "horas_por_dia": 12,
+  "dias_por_mes": 30,
+  "tarifa_rs_kwh": 0.9,
+  "fator_emissao_hipotetico_kgco2e_kwh": 0.05,
+  "horas_sol_pico_por_dia_hipotese": 4.5,
+  "rendimento_global_fotovoltaico_hipotese": 0.75,
+  "custo_instalacao_led_rs": 6000,
+  "custo_instalacao_solar_rs": 45000,
+  "manutencao_solar_reserva_rs_mes": 100,
+  "bateria_autonomia_dias_hipotese": 2,
+  "fracao_util_bateria": 0.8
+}
