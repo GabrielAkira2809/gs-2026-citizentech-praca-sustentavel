@@ -3,7 +3,7 @@
 **FIAP — Ciência da Computação, turma 1CC**  
 **Disciplina:** Soluções em Energias Renováveis e Sustentáveis  
 **Desafio:** Neighborhood Action Dashboard — CitizenTech  
-**Integrantes:** Gabriel Akira — RM 576082; Caio Gotardo — RM 574768
+**Integrantes:** Gabriel Akira — RM 576082 Caio Gotardo — RM 574768;
 **DashBoard:** https://gabrielakira2809.github.io/gs-2026-citizentech-praca-sustentavel/
 
 ## 1. Problema e proposta
